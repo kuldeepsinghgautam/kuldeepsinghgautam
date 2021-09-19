@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kuldeepsinghgautam
-- 👀 I’m interested in html, css, mariadb, photoshop.
-- 🌱 I’m currently learning python, c++, machine learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on instagram @heykuldeep
+- 👀 I’m doing project using html, css and photoshop.
+- 🌱 I’m currently learning Python, Pandas, Matplotlib, OpenCv, Machine learning, C++, MariaDB, MongoDB etc.
+- 💞️ I’m looking for ML Internship and Job.
+- 📫 Contact Me : info.iamkuldeep@gmail.com  and follow me on instagram @heykuldeep
 
 <!---
 kuldeepsinghgautam/kuldeepsinghgautam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
